@@ -1,0 +1,17 @@
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\bin\Debug\net6.0-windows\My Visual Basic Application.exe
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\bin\Debug\net6.0-windows\My Visual Basic Application.deps.json
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\bin\Debug\net6.0-windows\My Visual Basic Application.runtimeconfig.json
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\bin\Debug\net6.0-windows\My Visual Basic Application.dll
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\bin\Debug\net6.0-windows\My Visual Basic Application.pdb
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.vbproj.AssemblyReference.cache
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My_Visual_Basic_Application.Form1.resources
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.vbproj.GenerateResource.cache
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.AssemblyInfo.vb
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.vbproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.dll
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\refint\My Visual Basic Application.dll
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.pdb
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\My Visual Basic Application.genruntimeconfig.cache
+C:\Users\Edward\Documents\Repositories\My Visual Basic Application\obj\Debug\net6.0-windows\ref\My Visual Basic Application.dll
